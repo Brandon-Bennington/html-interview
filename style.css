@@ -1,0 +1,16 @@
+div { 
+    border: 10px; border-style: double ; color: blue;
+    padding: 25px;
+}
+
+h3 { 
+    font: bold; font-size: x-large; font-family: 'Lucida Sans';
+}
+img {
+    border-radius: 50px;
+}
+
+li { 
+    margin: 10px; font-style: italic;
+
+}
